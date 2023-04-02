@@ -1,7 +1,7 @@
 
 # EyeChill - Relax timer with sounds notifications
 Working a lot? You should take a break!
-[Download](https://github.com/dariulone/EyeChill/releases/ "download")
+[Download](https://github.com/dariulone/EyeChill/releases/ "releases")
 
 Settings window:
 
